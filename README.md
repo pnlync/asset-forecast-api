@@ -76,6 +76,6 @@ curl -s "https://api.example.com/v1/forecast/BTC-USD?horizon_days=7" \
 
 ---
 
-## License / Disclaimer
+## Disclaimer
 
 This project is for educational purposes. Forecasts are not investment advice.
