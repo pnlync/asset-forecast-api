@@ -4,6 +4,12 @@ A simple REST API that accepts a single **asset ticker** and returns **daily pri
 
 ---
 
+## Documentation
+
+- Detailed API docs: [`docs/api.md`](https://chatgpt.com/g/g-p-69958d2e2bac819190193240369a54b8-scalable-project/c/docs/api.md)
+
+---
+
 ## Base URL
 
 Set this to your deployed endpoint:
@@ -54,12 +60,6 @@ curl -s "https://api.example.com/v1/forecast/BTC-USD?horizon_days=7" \
 
 ---
 
-## Documentation
-
-- Detailed API docs: [`docs/api.md`](https://chatgpt.com/g/g-p-69958d2e2bac819190193240369a54b8-scalable-project/c/docs/api.md)
-- OpenAPI specification: [`openapi.yaml`](https://chatgpt.com/g/g-p-69958d2e2bac819190193240369a54b8-scalable-project/c/openapi.yaml)
-
----
 
 ## Key Conventions
 
