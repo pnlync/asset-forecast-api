@@ -6,7 +6,7 @@ A simple REST API that accepts a single **asset ticker** and returns **daily pri
 
 ## Documentation
 
-- Detailed API docs: [`docs/api.md`](https://chatgpt.com/g/g-p-69958d2e2bac819190193240369a54b8-scalable-project/c/docs/api.md)
+- Detailed API docs: [`docs/api.md`](https://github.com/pnlync/asset-forecast-api/blob/main/docs/api.md)
 
 ---
 
